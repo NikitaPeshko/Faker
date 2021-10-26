@@ -1,0 +1,9 @@
+D:\Downloads\MPP2\MPP-Faker-master\Faker\bin\Debug\Faker.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker\bin\Debug\Faker.pdb
+D:\Downloads\MPP2\MPP-Faker-master\Faker\bin\Debug\Faker.ValueGenerators.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker\bin\Debug\Faker.ValueGenerators.pdb
+D:\Downloads\MPP2\MPP-Faker-master\Faker\obj\Debug\Faker.csprojAssemblyReference.cache
+D:\Downloads\MPP2\MPP-Faker-master\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+D:\Downloads\MPP2\MPP-Faker-master\Faker\obj\Debug\Faker.csproj.CopyComplete
+D:\Downloads\MPP2\MPP-Faker-master\Faker\obj\Debug\Faker.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker\obj\Debug\Faker.pdb
