@@ -1,0 +1,17 @@
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.UnitTests.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.UnitTests.pdb
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.ValueGenerators.CustomGenerators.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.ValueGenerators.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.ValueGenerators.CustomGenerators.pdb
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.ValueGenerators.pdb
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Faker.pdb
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\obj\Debug\Faker.UnitTests.csprojAssemblyReference.cache
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\obj\Debug\Faker.UnitTests.csproj.CoreCompileInputs.cache
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\obj\Debug\Faker.UnitTests.csproj.CopyComplete
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\obj\Debug\Faker.UnitTests.dll
+D:\Downloads\MPP2\MPP-Faker-master\Faker.UnitTests\obj\Debug\Faker.UnitTests.pdb
